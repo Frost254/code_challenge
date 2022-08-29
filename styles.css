@@ -1,0 +1,15 @@
+* {
+    background-color: #F9F5EB;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#main-content {
+    margin: 30px;
+    padding: 20px;
+    border-radius: 5%;
+    color: #1C3879;
+}
